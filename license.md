@@ -195,3 +195,5 @@ Use the button in the Quick Start section.
 ---
 
 *Free Fire · Updated 2026-11-13 · Shared under the MIT License*
+
+<!-- rev 2026-11-13 -->
